@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"/home/tamim/Desktop/Toph/SPC Round 74/E. Divisor of Power of Factorial of Number.cpp","tests":[{"id":1736530178354,"input":"3\n3\n4\n10000","output":"16\n65\n8486002"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tamim/Desktop/Toph/SPC Round 74/E. Divisor of Power of Factorial of Number.cpp","group":"local","local":true}
